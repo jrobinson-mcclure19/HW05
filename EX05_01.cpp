@@ -2,7 +2,7 @@
 // Jalen Robisnon-McClure
 // CS 172-1
 // 06/14/2017
-// EX05_01 (12.2)
+// EX05_01 
 ///////////////////////////
 
 #include <iostream>
